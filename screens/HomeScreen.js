@@ -103,10 +103,6 @@ const HomeScreen = ({ navigation, setUser }) => {
           </View>
         </View>
       </Modal>
-
-      <View style={styles.footer}>
-        <Text style={styles.footerText}>Built by STEM Team of Orchids</Text>
-      </View>
     </LinearGradient>
   );
 };
